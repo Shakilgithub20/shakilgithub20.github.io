@@ -334,7 +334,7 @@ footer {
 }
 
 /* Media queries for responsiveness */
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 1220px) {
   nav {
     padding: 1.5rem 1rem;
   }
@@ -363,13 +363,13 @@ footer {
   }
 
   .hero {
-    margin-top: -4rem;
+    margin-top: 1rem;
     flex-direction: column;
     gap: 0;
   }
 
   .hero img {
-    height: 37.5rem;
+    height: 30.5rem;
     width: 30rem;
   }
 
@@ -408,34 +408,28 @@ footer {
     max-width: 23.75rem;
   }
 }
+.socials {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  right: 1%;
+  bottom: 30%;
+}
 
-@media screen and (max-width: 420px) {
+
+@media screen and (max-width: 320px) {
   .hero img {
     height: 37.5rem;
     width: 23rem;
   }
 
   .bio {
-    height: 30rem;
-    width: 30.3rem;
+    width: 18.3rem;
   }
-  /* .bio-text {
-    height: 15.5rem;
-    width: 10rem;
-  }
-  .bio-title{
-    height: 3rem;
-    width: 10rem;
-  } */
 
   .project-container {
     width: 17.875rem;
   }
-  .h2{
-    height: 15.5rem;
-    width: 10rem;
-  }
-  .animate__animated animate__shakeX
 
   .contact-form-container {
     max-width: 17.75rem;
