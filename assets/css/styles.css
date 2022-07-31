@@ -374,7 +374,7 @@ footer {
   }
 
   .bio {
-    margin-top: -7rem;
+    margin-top: 1rem;
     width: 20.5rem;
   }
 
@@ -416,12 +416,26 @@ footer {
   }
 
   .bio {
-    width: 18.3rem;
+    height: 30rem;
+    width: 30.3rem;
   }
+  /* .bio-text {
+    height: 15.5rem;
+    width: 10rem;
+  }
+  .bio-title{
+    height: 3rem;
+    width: 10rem;
+  } */
 
   .project-container {
     width: 17.875rem;
   }
+  .h2{
+    height: 15.5rem;
+    width: 10rem;
+  }
+  .animate__animated animate__shakeX
 
   .contact-form-container {
     max-width: 17.75rem;
