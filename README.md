@@ -79,9 +79,7 @@ I'm Shakil Ahmed. Currently, I am student at Premier university department of Co
 <h2/>
 
 
-![Shakil's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=shakilgithub20&theme=redical&hide_border=true&area=true)
-<!-- 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shakilgithub20&theme=github) -->
+
 
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
